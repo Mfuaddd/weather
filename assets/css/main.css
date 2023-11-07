@@ -1,0 +1,15 @@
+.container{
+    margin: 15% auto;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.container form{
+
+}
+.box .skyimg{
+    height: 32px;
+    width: 32px;
+}
